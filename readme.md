@@ -11,7 +11,7 @@
 
 ---
 
-## 校对 🀄️
+## 校对 ✅
 
 <!-- doc-templite START generated -->
 <!-- repo = 'golang-standards/project-layout' -->
@@ -39,8 +39,41 @@
 
 ### 目录
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [标准 Go 项目布局](#%E6%A0%87%E5%87%86-go-%E9%A1%B9%E7%9B%AE%E5%B8%83%E5%B1%80)
+  - [Go 目录](#go-%E7%9B%AE%E5%BD%95)
+    - [`/cmd`](#cmd)
+    - [`/internal`](#internal)
+    - [`/pkg`](#pkg)
+    - [`/vendor`](#vendor)
+  - [服务应用目录](#%E6%9C%8D%E5%8A%A1%E5%BA%94%E7%94%A8%E7%9B%AE%E5%BD%95)
+    - [`/api`](#api)
+  - [Web 应用程序目录](#web-%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E7%9B%AE%E5%BD%95)
+    - [`/web`](#web)
+  - [通用应用程序目录](#%E9%80%9A%E7%94%A8%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E7%9B%AE%E5%BD%95)
+    - [`/configs`](#configs)
+    - [`/init`](#init)
+    - [`/scripts`](#scripts)
+    - [`/build`](#build)
+    - [`/deployments`](#deployments)
+    - [`/test`](#test)
+  - [其他目录](#%E5%85%B6%E4%BB%96%E7%9B%AE%E5%BD%95)
+    - [`/docs`](#docs)
+    - [`/tools`](#tools)
+    - [`/examples`](#examples)
+    - [`/third_party`](#third_party)
+    - [`/githooks`](#githooks)
+    - [`/assets`](#assets)
+    - [`/website`](#website)
+  - [你不应该拥有的目录](#%E4%BD%A0%E4%B8%8D%E5%BA%94%E8%AF%A5%E6%8B%A5%E6%9C%89%E7%9A%84%E7%9B%AE%E5%BD%95)
+    - [`/src`](#src)
+  - [徽章-Badges](#%E5%BE%BD%E7%AB%A0-badges)
+  - [记](#%E8%AE%B0)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # 标准 Go 项目布局
 
