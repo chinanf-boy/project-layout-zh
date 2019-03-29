@@ -17,10 +17,9 @@
 <!-- repo = 'golang-standards/project-layout' -->
 <!-- commit = 'a98d2d4e92a85f96cc43d2d59b466882afe841b1' -->
 <!-- time = '2018-10-05' -->
-
-| 翻译的原文 | 与日期        | 最新更新 | 更多                       |
-| ---------- | ------------- | -------- | -------------------------- |
-| [commit]   | ⏰ 2018-10-05 | ![last]  | [中文翻译][translate-list] |
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018-10-05 | ![last] | [中文翻译][translate-list]
 
 [last]: https://img.shields.io/github/last-commit/golang-standards/project-layout.svg
 [commit]: https://github.com/golang-standards/project-layout/tree/a98d2d4e92a85f96cc43d2d59b466882afe841b1
@@ -33,7 +32,7 @@
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[If help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
